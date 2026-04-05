@@ -1,4 +1,4 @@
-import { SyncQueueItem, UserProfile } from "@pattern-shift/shared";
+import { SyncQueueItem, UserProfile } from "./shared";
 
 export interface SyncRequestBody {
   profile?: UserProfile | null;

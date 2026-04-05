@@ -1,4 +1,4 @@
-import { SyncQueueItem } from "@pattern-shift/shared";
+import { SyncQueueItem } from "../types/shared";
 import { ProtocolEntryModel } from "../models/ProtocolEntryModel";
 import { UserProfileModel } from "../models/UserProfileModel";
 
