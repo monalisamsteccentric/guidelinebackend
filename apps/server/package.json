@@ -10,7 +10,7 @@
     "lint": "tsc --noEmit"
   },
   "dependencies": {
-    "@pattern-shift/shared": "1.0.0",
+    
     "cors": "latest",
     "dotenv": "latest",
     "express": "latest",
